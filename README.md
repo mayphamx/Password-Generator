@@ -2,7 +2,7 @@
 UT's Fullstack Flex Web Development Bootcamp - Challenge 03
 
 ## Description
-<!-- The portfolio was created to showcase May Pham's skills, projects, and experiences while attending the UT Austin coding bootcamp. The purpose of this personal portfolio website is to present a professional and visually appealing showcase of May Pham's work to potential clients, employers, or collaborators. The site includes projects and information regarding how to get in contact with May Pham. -->
+The password generator assignment is to showcase May Pham's ability to code in Javascript. The given assignment used the practice of window prompts, windows alerts, booleans, functions, for loops, if statements, randomization of variables, and more to complete the site. The requirements of the password generator include that the password be between 8-128 characters, have the option to include special, numeric, lowercase, and uppercase characters, and to have the site successfully generate a password given the input parameters.
 
 ## Usage
 ![Webpage Screenshot](images/Screenshot.png)
