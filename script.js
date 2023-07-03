@@ -39,7 +39,7 @@ function generatePassword() {
   // variable for determining password
   var passwordChar = [];
 
-// boolean to concat to new array
+// boolean if statement to concat to new array
   if(addLower){
     passwordChar = passwordChar.concat(lowercase);
   }
