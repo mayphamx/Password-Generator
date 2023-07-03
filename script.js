@@ -28,17 +28,30 @@ var uppercase = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M"
 var numeric = ["~", "`", "!", "@", "#", "$", "%", "^", "&", "", "(", ")", "-", "_", "+", "=", "{", "}", "[", "]", "|", "/", ":", ";", "<", ">", ",", ".", "?"];
 var special = [0,1, 2, 3, 4, 5, 6, 7, 8, 9];
 
+var addlowercase = window.prompt("Would you like to add lowercase aphabetic charcters?");
+var addlowercase = window.prompt("Would you like to add lowercase aphabetic charcters?");
+var addlowercase = window.prompt("Would you like to add lowercase aphabetic charcters?");
+var addlowercase = window.prompt("Would you like to add lowercase aphabetic charcters?");
+
 var password = [];
 
 if (addLower) {
-  password = password.concat(lowercase);
+  passChar = passChar.concat(lowercase);
 }
 if (addUpper) {
-  password = password.concat(uppercase);
+  passChar = passChar.concat(uppercase);
 }
 if (addNumeric) {
-  password = password.concat(numeric);
+  passChar = passChar.concat(numeric);
 }
 if (addSpecial) {
-  password = password.concat(special);
+  passChar = passChar.concat(special);
 }
+
+var password = "";
+for(var i = 0; i < passlength, i++) {
+
+
+}
+
+generatePassword ();
